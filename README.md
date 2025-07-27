@@ -49,7 +49,7 @@ A simple, responsive password strength checker built with HTML, CSS, and vanilla
 
 ## 🚀 Live Demo
 
-[Live Demo](https://your-username.github.io/password-strength-checker/)
+[Live Demo](https://codewithoyem.github.io/password-checker-100daysofcode/)
 
 ---
 
@@ -58,5 +58,5 @@ A simple, responsive password strength checker built with HTML, CSS, and vanilla
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/password-strength-checker.git
+   git clone https://github.com/codewithoyem/password-checker-100daysofcode.git
    cd password-strength-checker
